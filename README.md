@@ -64,7 +64,7 @@ The AI-Powered Customer Support Ticketing System is built on the Salesforce Plat
 ## 📽️ Demo Video
 
 Demo Video:
-https://drive.google.com/file/d/1xZ67UcEPbJI-9lGYIdStDY9BTDGIa5zm/view?usp=sharing
+https://1drv.ms/f/c/b77f6963ff84ca0b/IgAyS7zQ5klxT6DUDa6z41RAAZXgrnHik7a-PIAY7P6Z1J0?e=9DPDZo
 
 ---
 
